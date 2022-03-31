@@ -1,0 +1,14 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\bin\Debug\netcoreapp3.1\DateTimePractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_30-03-2022_DelegatePracticePart2\DelegatePracticePart2\DateTimePractice\obj\Debug\netcoreapp3.1\DateTimePractice.genruntimeconfig.cache
